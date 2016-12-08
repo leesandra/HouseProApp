@@ -1,0 +1,46 @@
+
+img {
+	align-content: left;
+
+}
+
+nav {
+	background-color: #F2F3F4;
+	height: 35%;
+}
+
+ li {
+	display: inline;
+	font-family: Times; 
+	font-size: 25px; 
+	font-weight: bold;
+	
+}
+
+ul li {
+	margin-right: 5%;
+	text-decoration: none;
+}
+
+a {
+	text-decoration: none;
+
+}
+
+p {
+
+	font-family: georgia;
+	font-size: 20px;
+}
+
+section {
+		width: 35%;
+		background-color: #EAF2F8;
+
+
+}
+
+h1 {
+	font-size: 25px;
+
+}
