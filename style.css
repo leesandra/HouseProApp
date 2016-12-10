@@ -44,19 +44,13 @@ h1 {
 	font-size: 25px;
 }
 
-#checklist {
-		float: left;
 
 }
 
 input {
-	width: 85%
+	width: 100%;
 }
 
-.container2 {
-	
-
-}
 
 #trackertitle {
 	text-align: center;
