@@ -1,6 +1,6 @@
 
 img {
-	align-content: left;
+
 
 }
 
@@ -34,13 +34,31 @@ p {
 }
 
 section {
-		width: 35%;
+		width: 100%;
 		background-color: #EAF2F8;
-
-
 }
+
+
 
 h1 {
 	font-size: 25px;
+}
+
+#checklist {
+		float: left;
+
+}
+
+input {
+	width: 85%
+}
+
+.container2 {
+	
+
+}
+
+#trackertitle {
+	text-align: center;
 
 }
